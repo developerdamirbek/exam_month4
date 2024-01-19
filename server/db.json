@@ -1,0 +1,261 @@
+{
+    "products": [
+        {
+            "id":"1",
+            "category": "All",
+            "products": [
+                {
+                    "id":"6",
+                    "img":"https://raw.githubusercontent.com/developerdamirbek/store/main/image%20Product%20(2).png",
+                    "title": "Nike Air Max 270 React",
+                    "about":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iusto ea in nesciunt veritatis voluptatibus, modi exercitationem officia quod! Sunt nesciunt veniam tempore vel iste explicabo ratione nam repellendus quas unde. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam, inventore?",
+                    "price": 299.43
+                },
+                {
+                    "id":"7",
+                    "img":"https://raw.githubusercontent.com/developerdamirbek/store/main/image%20Product%20(1).png",
+                    "title": "Nike Air Max 270 React",
+                    "about":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iusto ea in nesciunt veritatis voluptatibus, modi exercitationem officia quod! Sunt nesciunt veniam tempore vel iste explicabo ratione nam repellendus quas unde. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam, inventore?",
+                    "price": 299.43
+                },
+                {
+                    "id":"8",
+                    "img":"https://raw.githubusercontent.com/developerdamirbek/store/main/image%20Product.png",
+                    "title": "Nike Air Max 270 React",
+                    "about":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iusto ea in nesciunt veritatis voluptatibus, modi exercitationem officia quod! Sunt nesciunt veniam tempore vel iste explicabo ratione nam repellendus quas unde. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam, inventore?",
+                    "price": 299.43
+                },
+                {
+                    "id":"9",
+                    "img":"https://raw.githubusercontent.com/developerdamirbek/store/main/Product%20Picture03.png",
+                    "title": "Nike Air Max 270 React",
+                    "about":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iusto ea in nesciunt veritatis voluptatibus, modi exercitationem officia quod! Sunt nesciunt veniam tempore vel iste explicabo ratione nam repellendus quas unde. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam, inventore?",
+                    "price": 299.43
+                },
+                {
+                    "id":"10",
+                    "img":"https://raw.githubusercontent.com/developerdamirbek/store/main/Product%20Picture02.png",
+                    "title": "Nike Air Max 270 React",
+                    "about":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iusto ea in nesciunt veritatis voluptatibus, modi exercitationem officia quod! Sunt nesciunt veniam tempore vel iste explicabo ratione nam repellendus quas unde. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam, inventore?",
+                    "price": 299.43
+                },
+                {
+                    "id":"11",
+                    "img":"https://raw.githubusercontent.com/developerdamirbek/store/main/Product%20Picture01.png",
+                    "title": "Nike Air Max 270 React",
+                    "about":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iusto ea in nesciunt veritatis voluptatibus, modi exercitationem officia quod! Sunt nesciunt veniam tempore vel iste explicabo ratione nam repellendus quas unde. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam, inventore?",
+                    "price": 299.43
+                },
+                {
+                    "id":"12",
+                    "img":"https://raw.githubusercontent.com/developerdamirbek/store/main/Product%20Picture03.png",
+                    "title": "Nike Air Max 270 React",
+                    "about":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iusto ea in nesciunt veritatis voluptatibus, modi exercitationem officia quod! Sunt nesciunt veniam tempore vel iste explicabo ratione nam repellendus quas unde. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam, inventore?",
+                    "price": 299.43
+                },
+                {
+                    "id":"13",
+                    "img":"https://raw.githubusercontent.com/developerdamirbek/store/main/Product%20Picture02.png",
+                    "title": "Nike Air Max 270 React",
+                    "about":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iusto ea in nesciunt veritatis voluptatibus, modi exercitationem officia quod! Sunt nesciunt veniam tempore vel iste explicabo ratione nam repellendus quas unde. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam, inventore?",
+                    "price": 299.43
+                },
+                {
+                    "id":"50",
+                    "img":"https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8c3VuZ2xhc3Nlc3xlbnwwfHwwfHx8MA%3D%3D",
+                    "title": "Nike Air Max 270 React",
+                    "about":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iusto ea in nesciunt veritatis voluptatibus, modi exercitationem officia quod! Sunt nesciunt veniam tempore vel iste explicabo ratione nam repellendus quas unde. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam, inventore?",
+                    "price": 299.43
+                },
+                {
+                    "id":"5347331",
+                    "img":"https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c3VuZ2xhc3N8ZW58MHx8MHx8fDA%3D",
+                    "title": "Nike Air Max 270 React",
+                    "about":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iusto ea in nesciunt veritatis voluptatibus, modi exercitationem officia quod! Sunt nesciunt veniam tempore vel iste explicabo ratione nam repellendus quas unde. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam, inventore?",
+                    "price": 299.43
+                },
+                {
+                    "id":"54546462",
+                    "img":"https://raw.githubusercontent.com/developerdamirbek/store/main/image%20Product.png",
+                    "title": "Nike Air Max 270 React",
+                    "about":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iusto ea in nesciunt veritatis voluptatibus, modi exercitationem officia quod! Sunt nesciunt veniam tempore vel iste explicabo ratione nam repellendus quas unde. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam, inventore?",
+                    "price": 299.43
+                },
+                {
+                    "id":"3340",
+                    "title": "FS - QUILTED MAXI CROSS BAG",
+                    "img": "https://raw.githubusercontent.com/developerdamirbek/store/main/image%20Product%20(3).png",
+                    "price": 299.43,
+                    "about": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iusto ea in nesciunt veritatis voluptatibus, modi exercitationem officia quod! Sunt nesciunt veniam tempore vel iste explicabo ratione nam repellendus quas unde. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam, inventore?"
+                },
+                {
+                    "id":"320",
+                    "title": "FS - Nike Air Max 270 React...",
+                    "img": "https://raw.githubusercontent.com/developerdamirbek/store/main/image%20Product%20(5).png",
+                    "price": 299.43,
+                    "about": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iusto ea in nesciunt veritatis voluptatibus, modi exercitationem officia quod! Sunt nesciunt veniam tempore vel iste explicabo ratione nam repellendus quas unde. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam, inventore?"
+                },
+                {
+                    "id":"111",
+                    "title": "FS - Nike Air Max 270 React...",
+                    "img": "https://raw.githubusercontent.com/developerdamirbek/store/main/image%20Product%20(6).png",
+                    "price": 299.43,
+                    "about": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iusto ea in nesciunt veritatis voluptatibus, modi exercitationem officia quod! Sunt nesciunt veniam tempore vel iste explicabo ratione nam repellendus quas unde. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam, inventore?"
+                }
+            ]
+        },
+        {
+            "id":"2",
+            "category": "Bags",
+            "products": [
+                {
+                    "id":"90",
+                    "img":"https://raw.githubusercontent.com/developerdamirbek/store/main/image%20Product%20(3).png",
+                    "title": "FS - QUILTED MAXI CROSS BAG",
+                    "about":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iusto ea in nesciunt veritatis voluptatibus, modi exercitationem officia quod! Sunt nesciunt veniam tempore vel iste explicabo ratione nam repellendus quas unde. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam, inventore?",
+                    "price": 299.43
+                },
+                {
+                    "id":"91",
+                    "img":"https://raw.githubusercontent.com/developerdamirbek/store/main/image%20Product%20(1).png",
+                    "title": "Nike Air Max 270 React",
+                    "about":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iusto ea in nesciunt veritatis voluptatibus, modi exercitationem officia quod! Sunt nesciunt veniam tempore vel iste explicabo ratione nam repellendus quas unde. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam, inventore?",
+                    "price": 299.43
+                }
+            ]
+        },
+        {
+            "id":"3",
+            "category": "Sneakers",
+            "products": [
+                {
+                    "id":"89",
+                    "img":"https://raw.githubusercontent.com/developerdamirbek/store/main/image%20Product%20(2).png",
+                    "title": "Nike Air Max 270 React",
+                    "about":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iusto ea in nesciunt veritatis voluptatibus, modi exercitationem officia quod! Sunt nesciunt veniam tempore vel iste explicabo ratione nam repellendus quas unde. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam, inventore?",
+                    "price": 299.43
+                },
+                {
+                    "id":"88",
+                    "img":"https://raw.githubusercontent.com/developerdamirbek/store/main/image%20Product.png",
+                    "title": "Nike Air Max 270 React",
+                    "about":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iusto ea in nesciunt veritatis voluptatibus, modi exercitationem officia quod! Sunt nesciunt veniam tempore vel iste explicabo ratione nam repellendus quas unde. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam, inventore?",
+                    "price": 299.43
+                },
+                {
+                    "id":"91",
+                    "img":"https://raw.githubusercontent.com/developerdamirbek/store/main/Product%20Picture03.png",
+                    "title": "Nike Air Max 270 React",
+                    "about":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iusto ea in nesciunt veritatis voluptatibus, modi exercitationem officia quod! Sunt nesciunt veniam tempore vel iste explicabo ratione nam repellendus quas unde. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam, inventore?",
+                    "price": 299.43
+                },
+                {
+                    "id":"92",
+                    "img":"https://raw.githubusercontent.com/developerdamirbek/store/main/Product%20Picture02.png",
+                    "title": "Nike Air Max 270 React",
+                    "about":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iusto ea in nesciunt veritatis voluptatibus, modi exercitationem officia quod! Sunt nesciunt veniam tempore vel iste explicabo ratione nam repellendus quas unde. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam, inventore?",
+                    "price": 299.43
+                },
+                {
+                    "id":"93",
+                    "img":"https://raw.githubusercontent.com/developerdamirbek/store/main/Product%20Picture01.png",
+                    "title": "Nike Air Max 270 React",
+                    "about":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iusto ea in nesciunt veritatis voluptatibus, modi exercitationem officia quod! Sunt nesciunt veniam tempore vel iste explicabo ratione nam repellendus quas unde. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam, inventore?",
+                    "price": 299.43
+                },
+                {
+                    "id":"94",
+                    "img":"https://raw.githubusercontent.com/developerdamirbek/store/main/Product%20Picture03.png",
+                    "title": "Nike Air Max 270 React",
+                    "about":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iusto ea in nesciunt veritatis voluptatibus, modi exercitationem officia quod! Sunt nesciunt veniam tempore vel iste explicabo ratione nam repellendus quas unde. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam, inventore?",
+                    "price": 299.43
+                },
+                {
+                    "id":"95",
+                    "img":"https://raw.githubusercontent.com/developerdamirbek/store/main/Product%20Picture02.png",
+                    "title": "Nike Air Max 270 React",
+                    "about":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iusto ea in nesciunt veritatis voluptatibus, modi exercitationem officia quod! Sunt nesciunt veniam tempore vel iste explicabo ratione nam repellendus quas unde. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam, inventore?",
+                    "price": 299.43
+                }
+            ]
+        },
+        {
+            "id":"4",
+            "category": "Belts",
+            "products": [
+                {
+                    "id":"64",
+                    "img":"https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR6CjECcDn46Y9TaWShxi2mVBO-40hxyCCE8c94R47ueF3VZ0xujlk_psQN54Sea_ldG9ogvwbt4r2F1RsdUDHsnJ5P1TaHRRHiRZ8_-sRsdDpDn2FO69AQ_Q32sCehYNh356DAIaQc1FA&usqp=CAc",
+                    "title": "Nike Air Max 270 React",
+                    "about":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iusto ea in nesciunt veritatis voluptatibus, modi exercitationem officia quod! Sunt nesciunt veniam tempore vel iste explicabo ratione nam repellendus quas unde. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam, inventore?",
+                    "price": 299.43
+                },
+                {
+                    "id":"74",
+                    "img":"https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR6CjECcDn46Y9TaWShxi2mVBO-40hxyCCE8c94R47ueF3VZ0xujlk_psQN54Sea_ldG9ogvwbt4r2F1RsdUDHsnJ5P1TaHRRHiRZ8_-sRsdDpDn2FO69AQ_Q32sCehYNh356DAIaQc1FA&usqp=CAc",
+                    "title": "Nike Air Max 270 React",
+                    "about":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iusto ea in nesciunt veritatis voluptatibus, modi exercitationem officia quod! Sunt nesciunt veniam tempore vel iste explicabo ratione nam repellendus quas unde. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam, inventore?",
+                    "price": 299.43
+                },
+                {
+                    "id":"73",
+                    "img":"data:image/jpeg;base64,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URUXSzL5M3p+E+OfIzB7AdfNai3TqlMsCjBHXONJ5D/w8nvfrz7+0A1bq0p1rRy9kF1Oi7DI2yRydO+V4GJx7Mr609w9FAUvGDHVyz7bFCdiBzpI8/jMfo/3hfaM0zU6R1LHdraAMgbFlbw8dDenw85vPad0pXVOoKQmtURqTgK52yDzuwGxHkuZoaCm06mD1BDUOss7feyWOz+GocnHptxNt7S7auK1O4djUtSQKSsSNOwZgQACAwBOTvj5Z1v8U/v5R7+zyg9pbV+o1W00NGAnBfDYz6Ek6V8yfKc9mrl0TqHV8BS7PopjzZtXexxuRv6Ez37YVRddKp3FDNKhTI10T3Qx1BAABsdJ3Hnmans072nTLq5bi5X3NNM8kh1LkHnGfmAY7lvvehYHs/tmpvbIja6QsnqM53DVKtVGOhhzjBB+XjLHlbeyKm5tabNsq03TfyNXUhHy1/lLJnLPtqOYiJlSIiBjXlolRSrDMjbdnqik6FBHh+2qD/xIIElsQIeekXA/dsfhVT9VnU9Kr/4NQ/8Aco/rJlEu00hf9l1h+4q/J6J/3TE6j0I1VOq2YvoKhmSkcbbZK77SfxIr587W9GurYgvSdwcKHyGLLg6e6pLDSAFOfT5RzqAa5IbQ+sgahoOdXGwxuMAH5mfUZQHkA/KdVpKOAPoJNNbUL2Q7DM9N3uKdyuWHuwqaTpGclgyHk7AbcHzm+fsLT8BdD40wf9kuGI1E5VSrdjnXIQ3ABHjRff46cZmPX7N3Yx3qx0qVGadbZTjYc4Gw2HlLyiNReVfPlbsdWcYxUG+WUUqneHlqIyM/CSOlS6lQoGhZ2iUVP49NVmzxncYLepzLfia340zfKgOjdjbtKxq3NpUuN9WNRALEkkurJ3zn18Zndq7DrV9pT7I1OghBVF3JIyAWOBnAJwBgD15l5TiXnd7TSm+h9Kv7Giwtumu1dhhqjum/y22H8II+M0tv2J6nWuWr3tpWcu2pglS3XUdtjl9lwMYGNvGX9Ec72aVH2l6f1qvQFrbWPuaGkK2atuGKjhRpqHCzr2U7H31kjOLRXuWGnU9emEQHwULk/HzlvRHK60aU50z2dX73hur33VRi+oqKhwW2xkaOBgYHoJue0HYW9vqiGrWpJRpnK0l1tk+JZhp3PpjA29ZZcScrvZpX/UPZ41yiUq10Vo0/u0qNNaa7bDJYsT4/WbJuwFiwpiqr1VpKBTR2wi7AbIgVd8b5BktiOVV4W1tTpqERQqgYAAwJkREgREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQP/Z",
+                    "title": "Nike Air Max 270 React",
+                    "about":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iusto ea in nesciunt veritatis voluptatibus, modi exercitationem officia quod! Sunt nesciunt veniam tempore vel iste explicabo ratione nam repellendus quas unde. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam, inventore?",
+                    "price": 299.43
+                },
+                {
+                    "id":"72",
+                    "img":"data:image/jpeg;base64,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URUXSzL5M3p+E+OfIzB7AdfNai3TqlMsCjBHXONJ5D/w8nvfrz7+0A1bq0p1rRy9kF1Oi7DI2yRydO+V4GJx7Mr609w9FAUvGDHVyz7bFCdiBzpI8/jMfo/3hfaM0zU6R1LHdraAMgbFlbw8dDenw85vPad0pXVOoKQmtURqTgK52yDzuwGxHkuZoaCm06mD1BDUOss7feyWOz+GocnHptxNt7S7auK1O4djUtSQKSsSNOwZgQACAwBOTvj5Z1v8U/v5R7+zyg9pbV+o1W00NGAnBfDYz6Ek6V8yfKc9mrl0TqHV8BS7PopjzZtXexxuRv6Ez37YVRddKp3FDNKhTI10T3Qx1BAABsdJ3Hnmans072nTLq5bi5X3NNM8kh1LkHnGfmAY7lvvehYHs/tmpvbIja6QsnqM53DVKtVGOhhzjBB+XjLHlbeyKm5tabNsq03TfyNXUhHy1/lLJnLPtqOYiJlSIiBjXlolRSrDMjbdnqik6FBHh+2qD/xIIElsQIeekXA/dsfhVT9VnU9Kr/4NQ/8Aco/rJlEu00hf9l1h+4q/J6J/3TE6j0I1VOq2YvoKhmSkcbbZK77SfxIr587W9GurYgvSdwcKHyGLLg6e6pLDSAFOfT5RzqAa5IbQ+sgahoOdXGwxuMAH5mfUZQHkA/KdVpKOAPoJNNbUL2Q7DM9N3uKdyuWHuwqaTpGclgyHk7AbcHzm+fsLT8BdD40wf9kuGI1E5VSrdjnXIQ3ABHjRff46cZmPX7N3Yx3qx0qVGadbZTjYc4Gw2HlLyiNReVfPlbsdWcYxUG+WUUqneHlqIyM/CSOlS6lQoGhZ2iUVP49NVmzxncYLepzLfia340zfKgOjdjbtKxq3NpUuN9WNRALEkkurJ3zn18Zndq7DrV9pT7I1OghBVF3JIyAWOBnAJwBgD15l5TiXnd7TSm+h9Kv7Giwtumu1dhhqjum/y22H8II+M0tv2J6nWuWr3tpWcu2pglS3XUdtjl9lwMYGNvGX9Ec72aVH2l6f1qvQFrbWPuaGkK2atuGKjhRpqHCzr2U7H31kjOLRXuWGnU9emEQHwULk/HzlvRHK60aU50z2dX73hur33VRi+oqKhwW2xkaOBgYHoJue0HYW9vqiGrWpJRpnK0l1tk+JZhp3PpjA29ZZcScrvZpX/UPZ41yiUq10Vo0/u0qNNaa7bDJYsT4/WbJuwFiwpiqr1VpKBTR2wi7AbIgVd8b5BktiOVV4W1tTpqERQqgYAAwJkREgREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQP/Z",
+                    "title": "Nike Air Max 270 React",
+                    "about":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iusto ea in nesciunt veritatis voluptatibus, modi exercitationem officia quod! Sunt nesciunt veniam tempore vel iste explicabo ratione nam repellendus quas unde. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam, inventore?",
+                    "price": 299.43
+                }
+            ]
+        },
+        {
+            "id":"5",
+            "category": "Sunglasses",
+            "products": [
+                {
+                    "id":"40",
+                    "img":"https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8c3VuZ2xhc3Nlc3xlbnwwfHwwfHx8MA%3D%3D",
+                    "title": "Nike Air Max 270 React",
+                    "about":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iusto ea in nesciunt veritatis voluptatibus, modi exercitationem officia quod! Sunt nesciunt veniam tempore vel iste explicabo ratione nam repellendus quas unde. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam, inventore?",
+                    "price": 299.43
+                },
+                {
+                    "id":"41",
+                    "img":"https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c3VuZ2xhc3N8ZW58MHx8MHx8fDA%3D",
+                    "title": "Nike Air Max 270 React",
+                    "about":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iusto ea in nesciunt veritatis voluptatibus, modi exercitationem officia quod! Sunt nesciunt veniam tempore vel iste explicabo ratione nam repellendus quas unde. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam, inventore?",
+                    "price": 299.43
+                }
+            ]
+        }
+
+    ],
+    "bestSeller":[
+        {
+            "id":"30",
+            "title": "FS - QUILTED MAXI CROSS BAG",
+            "img": "https://raw.githubusercontent.com/developerdamirbek/store/main/image%20Product%20(3).png",
+            "price": 299.43,
+            "about": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iusto ea in nesciunt veritatis voluptatibus, modi exercitationem officia quod! Sunt nesciunt veniam tempore vel iste explicabo ratione nam repellendus quas unde. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam, inventore?"
+        },
+        {
+            "id":"30",
+            "title": "FS - Nike Air Max 270 React...",
+            "img": "https://raw.githubusercontent.com/developerdamirbek/store/main/image%20Product%20(5).png",
+            "price": 299.43,
+            "about": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iusto ea in nesciunt veritatis voluptatibus, modi exercitationem officia quod! Sunt nesciunt veniam tempore vel iste explicabo ratione nam repellendus quas unde. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam, inventore?"
+        },
+        {
+            "id":"30",
+            "title": "FS - Nike Air Max 270 React...",
+            "img": "https://raw.githubusercontent.com/developerdamirbek/store/main/image%20Product%20(6).png",
+            "price": 299.43,
+            "about": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iusto ea in nesciunt veritatis voluptatibus, modi exercitationem officia quod! Sunt nesciunt veniam tempore vel iste explicabo ratione nam repellendus quas unde. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam, inventore?"
+        }
+    ]
+}
